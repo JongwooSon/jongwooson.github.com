@@ -1,0 +1,34 @@
+TIL(Today I Learned)
+commit log
+Ranked in - github 한국 사용자 순위
+정적 블로그
+우아한형제들/피플펀드 -> 깃헙 사용 / 피플펀드(python, jango 사용)
+8%(python, jango 사용)
+스포카(python)
+README.md -> 포트폴리오에 사용 권장
+GitHub Pages (publishing)-> Thema / Project 진행 할 때 사용 권장
+
+***
+
+# Initialize this repository with a README(README file 생성)
+# MIT source -> 잘 모르겟으면 이거 사용
+
+***
+
+# commit daily -> 동기부여 , 하찮은 것도 한 줄씩 작성
+# tutorial 따라하거나, 'hello world'도 작성하는 습관이 중요
+# Thema 변경 하고 2~3분 정도 걸림
+# 1. 옆에 ``` 사용 하고 python 코드 작성
+
+***
+
+# 우리는 왜 서버를 운영할까요?
+우리는 동적페이지를 개발하기 위해 공부하는데
+정적페이지(github)를 왜 운영해야 하는가?
+
+# jekyll은 Ruby로 만들어져 있음
+로컬에서 실행하기 위해서는 루비가 필요
+
+# yml 파일?
+# _posts
+- 이 폴더에 /.md 형식으로 파일을 작성?! 생성?! 해서 블로그에 post를 올린다.
