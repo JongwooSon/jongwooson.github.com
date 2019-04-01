@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Jongwoo Son"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Seoul"
+  bio              : "I am a good boy"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
